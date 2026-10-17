@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Goutam%20Singh%20Munda&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Goutam Singh Munda - Developer Banner"
+  />
+</p>
 
 <div align="center">
 
