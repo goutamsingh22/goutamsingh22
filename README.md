@@ -1,7 +1,3 @@
-Copy and paste this entire code into your `README.md` in the `goutamsingh22/goutamsingh22` repository. Remember to replace the sample featured projects with your real projects and add the snake workflow separately to `.github/workflows/snake.yml`.
-
-markdown
-```
 
 <div align="center">
 
